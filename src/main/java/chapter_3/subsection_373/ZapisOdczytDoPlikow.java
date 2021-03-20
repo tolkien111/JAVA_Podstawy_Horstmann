@@ -1,6 +1,5 @@
 package chapter_3.subsection_373;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
@@ -21,6 +20,5 @@ public class ZapisOdczytDoPlikow {
                 StandardCharsets.UTF_8);
         System.out.println(in.nextLine());
         System.out.println(in.nextLine());
-
     }
 }
