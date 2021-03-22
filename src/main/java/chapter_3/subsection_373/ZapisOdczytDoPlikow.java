@@ -21,4 +21,5 @@ public class ZapisOdczytDoPlikow {
         System.out.println(in.nextLine());
         System.out.println(in.nextLine());
     }
+    //sprawdzenie czy dobrze współpracuje z git
 }
